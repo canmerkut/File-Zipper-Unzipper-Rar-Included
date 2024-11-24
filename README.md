@@ -39,7 +39,7 @@ This project is a simple yet effective PHP-based solution for compressing and ex
   - `RarArchive` for `.rar`
 
 ## Example Screenshot
-![Interface Screenshot](https://via.placeholder.com/800x600.png?text=Zipper+Unzipper+Interface)
+![Interface Screenshot](https://raw.githubusercontent.com/canmerkut/File-Zipper-Unzipper-Rar-Included/refs/heads/main/screenshot.jpg)
 
 ## About
 Created by [Can Merküt](https://github.com/canmerkut), a passionate developer focused on delivering practical web tools. For suggestions or contributions, feel free to reach out or submit a pull request.
